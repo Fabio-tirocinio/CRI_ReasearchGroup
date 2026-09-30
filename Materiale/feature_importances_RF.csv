@@ -1,0 +1,34 @@
+feature,target,importance_norm
+Number of Taxpayers,Employee Income,0.2266229145258449
+Male (25-44),Employee Income,0.0967448184537314
+Female (65+),Employee Income,0.08891862014005603
+Male (45-64),Employee Income,0.08413217197999034
+Female (45-64),Employee Income,0.08206492487914421
+Female (25-44),Employee Income,0.07918773322742051
+Female (0-14),Employee Income,0.07546537717506814
+Male (65+),Employee Income,0.07349790172578298
+Male (15-24),Employee Income,0.06649758730688454
+Female (15-24),Employee Income,0.06510494438970799
+Male (0-14),Employee Income,0.061763006196369034
+Number of Taxpayers,Pension Income,0.3150602669149112
+Female (65+),Pension Income,0.0895221074716032
+Male (25-44),Pension Income,0.08603713054889478
+Male (45-64),Pension Income,0.07457745839439822
+Female (45-64),Pension Income,0.07208649995008055
+Male (65+),Pension Income,0.071013338301023
+Female (25-44),Pension Income,0.06641940090527135
+Female (0-14),Pension Income,0.06052007661145573
+Male (0-14),Pension Income,0.05964575597434281
+Female (15-24),Pension Income,0.05403217211842378
+Male (15-24),Pension Income,0.051085792809595514
+Number of Taxpayers,Self-employment Income,0.16314834826870978
+Female (65+),Self-employment Income,0.11581981472632248
+Male (25-44),Self-employment Income,0.09985681425601453
+Female (45-64),Self-employment Income,0.09428396990996718
+Female (25-44),Self-employment Income,0.08784015064243625
+Male (45-64),Self-employment Income,0.08345837224384539
+Male (65+),Self-employment Income,0.07871184894537829
+Female (0-14),Self-employment Income,0.07772097481272396
+Male (15-24),Self-employment Income,0.06664165195215152
+Female (15-24),Self-employment Income,0.06661204304294438
+Male (0-14),Self-employment Income,0.06590601119950623
